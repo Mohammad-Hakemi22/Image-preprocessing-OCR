@@ -1,4 +1,4 @@
-# preprocessing-OCR
+# Image preprocessing-OCR
 Image preprocessing for OCR include :
 
 otsuThreshold
